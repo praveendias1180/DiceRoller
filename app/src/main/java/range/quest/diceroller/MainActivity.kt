@@ -21,5 +21,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun rollDice() {
         val resultText: TextView = findViewById(R.id.result_text)
+        resultText.text = "Dice Rolled"
     }
 }
