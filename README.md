@@ -1,7 +1,10 @@
 # Dice Roller
 
-![Dice Roller](dice-roller.png)
+![Dice Roll](dice-roll.gif)
 
+# Dice Roller Hello World!
+
+![Dice Roller](dice-roller.png)
 
 # Developing Android Apps with Kotlin by Google
 
